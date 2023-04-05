@@ -1,0 +1,14 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "Lesson 3 Exercises",
+  "main": "listing3.4.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aaron Snowberger",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
