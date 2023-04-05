@@ -25,7 +25,7 @@ It will be updated every Thursday night as the assignments are due. / 과제가 
 
 ---
 
-### List of Assignments / 과제 목록
+### [List of Assignments / 과제 목록](https://ut-nodejs.github.io/assignments.html)
 
 Total points until today / 오늘까지의 총 점수: **`36`**
 
