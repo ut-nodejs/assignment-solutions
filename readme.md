@@ -3,13 +3,13 @@
 This repository contains solutions to the class assignments. / 이 저장소에는 수업 과제의 솔루션을 포함합니다.<br>
 It will be updated every Thursday night as the assignments are due. / 과제가 제출되는 매주 목요일 밤에 업데이트됩니다.
 
-| 마감일 | 과제 |  점   |
-| :---: | ---- |  ---- |
-| --    | [Bootstrap Example / 부트스트랩 예시](./0-bootstrap-example-soln-PUBLIC/) | -- |
-| 4/7   | [0. Starting Node / 노드 시작](./0-starting-nodejs-soln-PUBLIC/) | `6`  |
-| 4/7   | [1. First Web Server / 첫 웹 서버](./1-node-webserver-soln-PUBLIC/) | `10` |
-| **4/14** | 1. Capstone: First Web App / 캡스톤: 첫 웹 앱 | `20` |
-| **4/21** | 2. Express Web Server / 익스프레스 웹 서버 |  |
+|  마감일  | 과제                                                                      | 점   |
+| :------: | ------------------------------------------------------------------------- | ---- |
+|    --    | [Bootstrap Example / 부트스트랩 예시](./0-bootstrap-example-soln-PUBLIC/) | --   |
+|   4/7    | [0. Starting Node / 노드 시작](./0-starting-nodejs-soln-PUBLIC/)          | `6`  |
+|   4/7    | [1. First Web Server / 첫 웹 서버](./1-node-webserver-soln-PUBLIC/)       | `10` |
+| **4/14** | 1. Capstone: First Web App / 캡스톤: 첫 웹 앱                             | `20` |
+| **4/21** | 2. Express Web Server / 익스프레스 웹 서버                                | `12` |
 
 ---
 
@@ -64,17 +64,13 @@ Total points until today / 오늘까지의 총 점수: **`36`**
 
 ##### 3. Express.js / 익스프레스
 
-- **3-express-webserver (Tests pass)** _(4월 21일까지)_
-  <!-- - lesson-9
+- **3-express-webserver (Tests pass) `(12/12)`** _(4월 21일까지)_
+  - [lesson-9](./lesson-9)
     - 9.7.EX.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
-  - lesson-10
+  - [lesson-10](./lesson-10)
     - main.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
-    - /views `(2/2)`
-  - lesson-11
+  - [lesson-11](./lesson-11)
     - main.js `(2/2)`
-    - /controllers/homeController.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
-    - /views `(2/2)`
-    - /public `(2/2)` -->
