@@ -1,0 +1,25 @@
+/* KNUT Red */
+b {
+  color: #832127;
+}
+
+footer {
+  background-color: #42474e;
+  color: #e2e2e3;
+}
+
+.colophon {
+  background-color: #3c4751;
+}
+
+.black {
+  color: #010101;
+}
+.grey {
+  background-color: #45495b;
+}
+
+input[type="submit"] {
+  background: #212a3d;
+  color: white;
+}
