@@ -8,7 +8,7 @@ It will be updated every Thursday night as the assignments are due. / 과제가 
 |    --    | [Bootstrap Example / 부트스트랩 예시](./0-bootstrap-example-soln-PUBLIC/) | --   |
 |   4/7    | [0. Starting Node / 노드 시작](./0-starting-nodejs-soln-PUBLIC/)          | `6`  |
 |   4/7    | [1. First Web Server / 첫 웹 서버](./1-node-webserver-soln-PUBLIC/)       | `10` |
-| **4/14** | 1. Capstone: First Web App / 캡스톤: 첫 웹 앱                             | `20` |
+|   4/14   | [1. Capstone: First Web App / 캡스톤: 첫 웹 앱](./2-webserver-capstone-PUBLIC/)        | `20` |
 | **4/21** | 2. Express Web Server / 익스프레스 웹 서버                                | `12` |
 
 ---
@@ -27,7 +27,7 @@ It will be updated every Thursday night as the assignments are due. / 과제가 
 
 ### [List of Assignments / 과제 목록](https://ut-nodejs.github.io/assignments.html)
 
-Total points until today / 오늘까지의 총 점수: **`36`**
+Total points until today / 오늘까지의 총 점수: **`64`**
 
 ##### 0. Starting Node.js / Node.js 시작하기
 
@@ -65,12 +65,27 @@ Total points until today / 오늘까지의 총 점수: **`36`**
 ##### 3. Express.js / 익스프레스
 
 - **3-express-webserver (Tests pass) `(12/12)`** _(4월 21일까지)_
-  - [lesson-9](./lesson-9)
+  - lesson-9
     - 9.7.EX.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
-  - [lesson-10](./lesson-10)
+  - lesson-10
     - main.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
-  - [lesson-11](./lesson-11)
+  - lesson-11
     - main.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
+
+##### 4. MongoDB / 몽고 데이터베이스
+
+- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(4월 21일까지)_
+  - lesson-13 (MongoDB)
+    - main.js `(2/2)`
+  - lesson-14 (Mongoose)
+    - main1.js `(2/2)`
+    - main2.js `(2/2)`
+    - /models/subscriber.js `(2/2)`
+  - lesson-15 (Mongoose)
+    - main.js `(2/2)`
+    - /controllers/subscribersController.js `(2/2)`
+    - subscribers.ejs `(2/2)`
+    - seed.js `(2/2)`
