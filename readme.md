@@ -9,7 +9,11 @@ It will be updated every Thursday night as the assignments are due. / 과제가 
 |   4/7    | [0. Starting Node / 노드 시작](./0-starting-nodejs-soln-PUBLIC/)          | `6`  |
 |   4/7    | [1. First Web Server / 첫 웹 서버](./1-node-webserver-soln-PUBLIC/)       | `10` |
 |   4/14   | [1. Capstone: First Web App / 캡스톤: 첫 웹 앱](./2-webserver-capstone-PUBLIC/)        | `20` |
-| **4/21** | 2. Express Web Server / 익스프레스 웹 서버                                | `12` |
+|   4/21   | [2. Express Web Server / 익스프레스 웹 서버](./3-express-webserver-soln-PUBLIC/)                                | `12` |
+|    --    | [3. Capstone: Express Example / 캡스톤: 익스프레스 예시](./4-express-capstone-soln-PUBLIC/) | -- |
+|   4/21   | [Midterm Test / 중간고사](./5-midterm-test-soln-PUBLIC/)                  | `30` |
+| **5/12** | 4. Connecting MongoDB / 몽고 데이터베이스 연결 |  |
+| **5/12** | 5. Capstone: Adding MongoDB / 캡스톤: 몽고 데이터베이스 추가 |  |
 
 ---
 
@@ -64,7 +68,7 @@ Total points until today / 오늘까지의 총 점수: **`64`**
 
 ##### 3. Express.js / 익스프레스
 
-- **3-express-webserver (Tests pass) `(12/12)`** _(4월 21일까지)_
+- **3-express-webserver (NO TESTS) `(12/12)`** _(4월 21일까지)_
   - lesson-9
     - 9.7.EX.js `(2/2)`
     - /controllers/homeController.js `(2/2)`
@@ -75,9 +79,32 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - main.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
 
+##### M. Midterm Test / 중간고사
+
+- **midterm-test (NO TESTS) `(30/30)`** _(4월 21일까지)_
+  - /controllers
+    - errorController.js `(2/2)`
+    - homeController.js `(2/2)`
+  - /views
+    - /partials
+      - header.ejs `(2/2)`
+      - navigation.ejs `(2/2)`
+      - footer.ejs `(2/2)`
+    - layout.ejs `(2/2)`
+    - index.ejs `(2/2)`
+    - contact.ejs `(2/2)`
+    - thanks.ejs `(2/2)`
+    - transportation.ejs `(2/2)`
+    - error.ejs `(2/2)`
+  - main.js `(2/2)`
+  - package.json `(2/2)`
+  - 실행
+    - All pages work (실행) `(2/2)`
+    - Pages have style `(2/2)`
+
 ##### 4. MongoDB / 몽고 데이터베이스
 
-- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(4월 21일까지)_
+- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(5월 12일까지)_
   - lesson-13 (MongoDB)
     - main.js `(2/2)`
   - lesson-14 (Mongoose)
