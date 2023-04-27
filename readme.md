@@ -79,6 +79,8 @@ Total points until today / 오늘까지의 총 점수: **`64`**
     - main.js `(2/2)`
     - /controllers/errorController.js `(2/2)`
 
+---
+
 ##### M. Midterm Test / 중간고사
 
 - **midterm-test (NO TESTS) `(30/30)`** _(4월 21일까지)_
@@ -101,6 +103,8 @@ Total points until today / 오늘까지의 총 점수: **`64`**
   - 실행
     - All pages work (실행) `(2/2)`
     - Pages have style `(2/2)`
+
+---
 
 ##### 4. MongoDB / 몽고 데이터베이스
 
