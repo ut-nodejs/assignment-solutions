@@ -4,16 +4,16 @@ This repository contains solutions to the class assignments. / 이 저장소에�
 It will be updated every Thursday night as the assignments are due. / 과제가 제출되는 매주 목요일 밤에 업데이트됩니다.
 
 |  마감일  | 과제                                                                      | 점   |
-| :------: | ------------------------------------------------------------------------- | ---- |
+| :------: | ------------------------------------------------------------------------ | ---- |
 |    --    | [Bootstrap Example / 부트스트랩 예시](./0-bootstrap-example-soln-PUBLIC/) | --   |
 |   4/7    | [0. Starting Node / 노드 시작](./0-starting-nodejs-soln-PUBLIC/)          | `6`  |
 |   4/7    | [1. First Web Server / 첫 웹 서버](./1-node-webserver-soln-PUBLIC/)       | `10` |
 |   4/14   | [2. Capstone: First Web App / 캡스톤: 첫 웹 앱](./2-webserver-capstone-PUBLIC/)        | `20` |
-|   4/21   | [3. Express Web Server / 익스프레스 웹 서버](./3-express-webserver-soln-PUBLIC/)                                | `12` |
-|    --    | [4. Capstone: Express Example / 캡스톤: 익스프레스 예시](./4-express-capstone-soln-PUBLIC/) | -- |
-|   4/21   | [Midterm Test / 중간고사](./5-midterm-test-soln-PUBLIC/)                  | `30` |
-| **5/12** | 5. Connecting MongoDB / 몽고 데이터베이스 연결 |  |
-| **5/12** | 6. Capstone: Adding MongoDB / 캡스톤: 몽고 데이터베이스 추가 |  |
+|   4/21   | [3. Express Web Server / 익스프레스 웹 서버](./3-express-webserver-soln-PUBLIC/)        | `12` |
+|    --    | [Capstone: Express Example / 캡스톤: 익스프레스 예시](./4-express-capstone-soln-PUBLIC/) | -- |
+|   4/21   | [Midterm Test / 중간고사](./midterm-test-soln-PUBLIC/)                    | `30` |
+| **5/12** | 4. Connecting MongoDB / 몽고 데이터베이스 연결                             | `12` |
+| **5/12** | 5. Capstone: Adding MongoDB / 캡스톤: 몽고 데이터베이스 추가                | `8` |
 
 ---
 
