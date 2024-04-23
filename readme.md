@@ -1,4 +1,4 @@
-# Assignment Solutions / 과제 솔루션
+# Assignment Solutions / 과제 솔루션 
 
 This repository contains solutions to the class assignments. / 이 저장소에는 수업 과제의 솔루션을 포함합니다.<br>
 It will be updated every Thursday night as the assignments are due. / 과제가 제출되는 매주 목요일 밤에 업데이트됩니다.
@@ -11,7 +11,7 @@ It will be updated every Thursday night as the assignments are due. / 과제가 
 |   4/14   | [2. Capstone: First Web App / 캡스톤: 첫 웹 앱](./2-webserver-capstone-PUBLIC/)        | `20` |
 |   4/21   | [3. Express Web Server / 익스프레스 웹 서버](./3-express-webserver-soln-PUBLIC/)        | `12` |
 |    --    | [Capstone: Express Example / 캡스톤: 익스프레스 예시](./4-express-capstone-soln-PUBLIC/) | -- |
-|   4/21   | [Midterm Test / 중간고사](./midterm-test-soln-PUBLIC/)                    | `30` |
+|   4/21   | Midterm Test / 중간고사                    | `30` |
 | **5/12** | 4. Connecting MongoDB / 몽고 데이터베이스 연결                             | `12` |
 | **5/12** | 5. Capstone: Adding MongoDB / 캡스톤: 몽고 데이터베이스 추가                | `8` |
 
